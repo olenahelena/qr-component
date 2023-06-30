@@ -21,8 +21,8 @@ It was a great task to practice more with flexboxes and images.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL:(https://rainbow-madeleine-760bab.netlify.app/)
 
 ### Built with
 
