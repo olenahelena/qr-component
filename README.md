@@ -21,7 +21,7 @@ It was a great task to practice more with flexboxes and images.
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://github.com/olenahelena/qr-component)
 - Live Site URL:(https://rainbow-madeleine-760bab.netlify.app/)
 
 ### Built with
